@@ -10,5 +10,7 @@ ubuntu-xenial-16.04-cloudimg-console.log
 contracts/bin/
 contracts/abi/
 
+/.idea
+
 # don't commit node_modules
 node_modules
